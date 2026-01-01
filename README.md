@@ -33,21 +33,6 @@ Infrastructure as Code
 
 Terraform
 
-Project Structure
-event-driven-pipeline/
-├── .github/workflows/
-│   └── deploy.yml
-├── lambda/
-│   ├── processor.py
-│   └── report_generator.py
-├── sample-data/
-│   └── sample.json
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-├── .gitignore
-├── README.md
-
 Prerequisites-
 
 AWS Account
